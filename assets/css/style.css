@@ -1,0 +1,17 @@
+body {
+	background-color: #eee;
+}
+
+#frame {
+	width: 600px;
+	height: 400px;
+	margin-top: 98px;
+	margin-left: 95px;
+	border: 2px solid black;
+	background-color: white;
+}
+
+
+.piece {
+	position: absolute;
+}
